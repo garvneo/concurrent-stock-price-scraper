@@ -28,7 +28,3 @@
 - Make sure to configure the Wikipedia URLs and Yahoo Finance endpoints in the scraper scripts to target the desired stock data.
 - Customize the PostgreSQL database connection settings to match your environment.
 - Consider optimizing the scrapers further for performance and scalability, depending on the scale of data collection.
-
-## Contributing
-
-Contributions to this project are welcome! Feel free to fork the repository, make enhancements, and submit pull requests to improve the functionality and efficiency of the scrapers.
